@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/eli-ahmed**
 
-- ⚡ Fun fact **I make youtube videos**
+- ⚡ Fun fact **I make YouTube videos**
 
 <h3 align="left">Connect with me:</h3>
 **LinkedIn: https://www.linkedin.com/in/eli-ahmed**
