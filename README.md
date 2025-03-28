@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 LinkedIn: https://www.linkedin.com/in/eli-ahmed 
-Cybersecurity Business: https://midnightguardians.carrd.co/
 <p align="left">
 </p>
 
