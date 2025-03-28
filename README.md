@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **cryptography, robotics, AI**
 
-- 👨‍💻 All of my projects are available at [https://snazgames.my.canva.site/uxarcadia]
+- 👨‍💻 All of my projects are available at [website](https://snazgames.my.canva.site/uxarcadia)
 
 - 💬 Ask me about **DevOps, Cybersecurity, Engineering**
 
@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I make YouTube videos**
 
 <h3 align="left">Connect with me:</h3>
-LinkedIn: https://www.linkedin.com/in/eli-ahmed 
+[LinkedIn](https://www.linkedin.com/in/eli-ahmed) 
 <p align="left">
 </p>
 
