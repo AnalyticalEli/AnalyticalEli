@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eli</h1>
+<h1 align="center">Hi there👋 software traveler, I'm Eli</h1>
 <h3 align="center">Software Engineer @ Reality AI Lab.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=analyticaleli&label=Profile%20views&color=0e75b6&style=flat" alt="analyticaleli" /> </p>
