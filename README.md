@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I make YouTube videos**
 
 <h3 align="left">Connect with me:</h3>
-[LinkedIn](https://www.linkedin.com/in/eli-ahmed) 
+ <a href="https://www.linkedin.com/in/eli-ahmed/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <p align="left">
 </p>
 
